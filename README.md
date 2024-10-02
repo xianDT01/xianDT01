@@ -22,6 +22,4 @@ Mi portafolio estático hecho con HTML, CSS, y desplegado en Netlify.
 
 ![](https://komarev.com/ghpvc/?username=xianDT01&color=blueviolet)
 
-## 🤝 Conectemos
-- [Email](xiandt01@gmail.com)
 
