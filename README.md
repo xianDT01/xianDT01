@@ -4,7 +4,7 @@ Soy un desarrollador junior con experiencia en .NET, Java y Spring Boot.
 
 ## 🛠 Tecnologías y Herramientas
 - **Backend**: .NET Core, Java, Spring Boot
-- **Frontend**: Angular, Thymeleaf, HTML, CSS
+- **Frontend**: Thymeleaf, HTML, CSS
 - **Bases de datos**: MySQL, SQLite
 - **Otros**: Swagger, Git, Maven
 
