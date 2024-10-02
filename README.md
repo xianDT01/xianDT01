@@ -12,9 +12,6 @@ Soy un desarrollador junior con experiencia en .NET, Java y Spring Boot.
 ### [XianBlogSpot](https://github.com/xianDT01/XianBlogSpot)
 Un blog con registro de usuarios, inicio de sesión y sistema de comentarios utilizando Spring Boot, MySQL y Thymeleaf.
 
-### [Portfolio Personal](https://xianDT01.netlify.app)
-Mi portafolio estático hecho con HTML, CSS, y desplegado en Netlify.
-
 ## 📊 Estadísticas de GitHub
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=xianDT01&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
