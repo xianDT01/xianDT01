@@ -1,8 +1,6 @@
 # 👋 ¡Hola! Soy Xian
 Soy un desarrollador junior con experiencia en .NET, Java y Spring Boot.
 
-<img src="https://link-al-gif-del-osito-con-pc.gif" width="200px" alt="Osito con PC">
-
 ## 🛠 Tecnologías y Herramientas
 - **Backend**: .NET Core, Java, Spring Boot
 - **Frontend**: Thymeleaf, HTML, CSS
