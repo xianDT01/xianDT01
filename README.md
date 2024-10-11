@@ -1,4 +1,4 @@
-# ¡Hola, soy Xián! 👋
+# 👋
 
 Soy un desarrollador junior con experiencia en .NET, Java y Spring Boot.
 
