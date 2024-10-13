@@ -21,6 +21,7 @@ Un blog con registro de usuarios, inicio de sesión y sistema de comentarios uti
 
 ## 📊 Estadísticas de GitHub
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=xianDT01&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xianDT01&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
