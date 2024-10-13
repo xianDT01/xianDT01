@@ -17,7 +17,7 @@
 
 ### [XianBlogSpot](https://github.com/xianDT01/XianBlogSpot)
 Un blog con registro de usuarios, inicio de sesión y sistema de comentarios utilizando Spring Boot, MySQL y Thymeleaf.
-- **Tecnologías**: Spring Boot, Thymeleaf, MySQL
+- **Tecnologías**: Spring Boot, Thymeleaf, MySQL, Java
 - **Características**: 
   - Registro e inicio de sesión de usuarios
   - Visualización y comentario en publicaciones
@@ -29,7 +29,7 @@ Un blog con registro de usuarios, inicio de sesión y sistema de comentarios uti
 
 ### [GameArchive](https://github.com/xianDT01/GameArchive)
 Una aplicación que permite a los usuarios registrar, revisar y calificar videojuegos.
-- **Tecnologías**: JavaFX, MySQL, Scene Builder
+- **Tecnologías**: JavaFX, MySQL, Java
 - **Características**: 
   - Registro e inicio de sesión
   - Gestión de reseñas y calificaciones
