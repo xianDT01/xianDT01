@@ -1,5 +1,9 @@
-# 👋 ¡Hola! Soy Xian
-Soy un desarrollador junior con experiencia en .NET, Java y Spring Boot.
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello,+I'm+Xian+Duran!;Junior+Software+Developer;Experienced+in+Java+and+C#;Skilled+in+Spring+Boot+and+.NET;Front-end+Developer+with+Angular;Always+learning+new+technologies">
+  </a>
+</p>
 
 ## 🛠 Tecnologías y Herramientas
 - **Backend**: .NET Core, Java, Spring Boot
