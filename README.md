@@ -24,6 +24,10 @@ Un blog con registro de usuarios, inicio de sesión y sistema de comentarios uti
   - Visualización y comentario en publicaciones
   - Creación, modificación y eliminación de publicaciones
 
+
+  <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+
 ### [GameArchive](https://github.com/xianDT01/GameArchive)
 Una aplicación que permite a los usuarios registrar, revisar y calificar videojuegos.
 - **Tecnologías**: JavaFX, MySQL, Scene Builder
@@ -32,13 +36,6 @@ Una aplicación que permite a los usuarios registrar, revisar y calificar videoj
   - Gestión de reseñas y calificaciones
   - Foro de discusión
 
-### [API de Usuarios](https://github.com/xianDT01/API-de-Usuarios)
-Una API RESTful para la gestión de usuarios con autenticación JWT y operaciones CRUD.
-- **Tecnologías**: ASP.NET Core, Entity Framework, SQLite
-- **Características**: 
-  - Autenticación mediante JWT
-  - Operaciones CRUD completas
-  - Validaciones de datos
 
 ## 📊 Estadísticas de GitHub
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=xianDT01&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
