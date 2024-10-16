@@ -43,5 +43,3 @@ Una aplicación que permite a los usuarios registrar, revisar y calificar videoj
 
 ![](https://komarev.com/ghpvc/?username=xianDT01&color=blueviolet)
 
-<hr>
-<p align="center">&copy; 2024 Xián Durán Taboada</p>
