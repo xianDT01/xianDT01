@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola,+Soy+Xián+Durán!;Junior+Software+Developer">
@@ -35,11 +34,21 @@ Una aplicación que permite a los usuarios registrar, revisar y calificar videoj
   - Gestión de reseñas y calificaciones
   - Foro de discusión
 
-
 ## 📊 Estadísticas de GitHub
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=xianDT01&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xianDT01&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=xianDT01&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xianDT01&layout=compact&theme=radical" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ![](https://komarev.com/ghpvc/?username=xianDT01&color=blueviolet)
-
