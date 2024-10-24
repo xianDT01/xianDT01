@@ -18,9 +18,9 @@
 Un blog con registro de usuarios, inicio de sesión y sistema de comentarios utilizando Spring Boot, MySQL y Thymeleaf.
 - **Tecnologías**: Spring Boot, Thymeleaf, MySQL, Java
 - **Características**: 
-  - Registro e inicio de sesión de usuarios
-  - Visualización y comentario en publicaciones
-  - Creación, modificación y eliminación de publicaciones
+  - Registro e inicio de sesión de usuarios.
+  - Visualización y comentario en publicaciones.
+  - Creación, modificación y eliminación de publicaciones.
 
 
   <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
@@ -30,9 +30,9 @@ Un blog con registro de usuarios, inicio de sesión y sistema de comentarios uti
 Una aplicación que permite a los usuarios registrar, revisar y calificar videojuegos.
 - **Tecnologías**: JavaFX, MySQL, Java
 - **Características**: 
-  - Registro e inicio de sesión
-  - Gestión de reseñas y calificaciones
-  - Foro de discusión
+  - Registro e inicio de sesión.
+  - Gestión de reseñas y calificaciones.
+  - Foro de discusión.
 
 ## 📊 Estadísticas de GitHub
 
