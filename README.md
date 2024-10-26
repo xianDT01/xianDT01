@@ -7,10 +7,25 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
 ## 🛠 Tecnologías y Herramientas
-- **Backend**: [.NET Core](https://dotnet.microsoft.com/), [Java](https://www.java.com/), [Spring Boot](https://spring.io/projects/spring-boot)
-- **Frontend**: [Thymeleaf](https://www.thymeleaf.org/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- **Bases de datos**: [MySQL](https://www.mysql.com/), [SQLite](https://www.sqlite.org/index.html)
-- **Otros**: [Swagger](https://swagger.io/), [Git](https://git-scm.com/), [Maven](https://maven.apache.org/)
+
+### Backend
+- ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Frontend
+- ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Bases de Datos
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Otros
+- ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 ## 🚀 Proyectos Destacados
 
@@ -22,9 +37,7 @@ Un blog con registro de usuarios, inicio de sesión y sistema de comentarios uti
   - Visualización y comentario en publicaciones.
   - Creación, modificación y eliminación de publicaciones.
 
-
-  <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ### [GameArchive](https://github.com/xianDT01/GameArchive)
 Una aplicación que permite a los usuarios registrar, revisar y calificar videojuegos.
