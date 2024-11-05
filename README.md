@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
-## 🛠 Tecnologías y Herramientas
+## 🛠 Tecnologías y Herramientas.
 
 **Backend:**  
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -40,7 +40,7 @@ Una aplicación que permite a los usuarios registrar, revisar y calificar videoj
   - Gestión de reseñas y calificaciones.
   - Foro de discusión.
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub.
 
 <table>
   <tr>
