@@ -19,25 +19,28 @@
 
 **Otros:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-## 🚀 Proyectos Destacados
 
-### [XianBlogSpot](https://github.com/xianDT01/XianBlogSpot)
-Un blog con registro de usuarios, inicio de sesión y sistema de comentarios utilizando Spring Boot, MySQL y Thymeleaf.
-- **Tecnologías**: Spring Boot, Thymeleaf, MySQL, Java
-- **Características**: 
-  - Registro e inicio de sesión de usuarios.
-  - Visualización y comentario en publicaciones.
-  - Creación, modificación y eliminación de publicaciones.
+## 🚀 Proyecto Destacado
+
+### [EverLoad](https://github.com/xianDT01/everload)
+Una aplicación completa para descargar vídeos y audios de YouTube, Twitter/X, Facebook e Instagram.
+
+- **Frontend**: Angular 15, multilenguaje, responsive
+- **Backend**: Spring Boot + Swagger
+- **Características**:
+  - Descarga de vídeos y música de múltiples plataformas
+  - Integración con `yt-dlp`
+  - Preparado para despliegue en Docker
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ### [GameArchive](https://github.com/xianDT01/GameArchive)
-Una aplicación que permite a los usuarios registrar, revisar y calificar videojuegos.
-- **Tecnologías**: JavaFX, MySQL, Java
-- **Características**: 
-  - Registro e inicio de sesión.
-  - Gestión de reseñas y calificaciones.
-  - Foro de discusión.
+Aplicación para gestionar y calificar videojuegos.
+
+- **Tecnologías**: JavaFX, MySQL
+- **Características**: Registro de usuarios, reseñas, foro.
+
+---
 
 ## 📊 Estadísticas de GitHub.
 
@@ -55,6 +58,5 @@ Una aplicación que permite a los usuarios registrar, revisar y calificar videoj
     </td>
   </tr>
 </table>
-
 
 ![](https://komarev.com/ghpvc/?username=xianDT01&color=blueviolet)
