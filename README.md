@@ -51,19 +51,14 @@ Repositorio donde guardo mis automatizaciones creadas con [n8n](https://n8n.io/)
 
 ## 📊 Estadísticas de GitHub.
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=xianDT01&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xianDT01&layout=compact&theme=radical" alt="Top Langs" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xianDT01&show_icons=true&theme=radical" alt="Estadísticas de GitHub" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xianDT01&layout=compact&theme=radical" alt="Lenguajes más usados" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xianDT01&color=blueviolet" alt="Visitas al perfil" />
+</p>
+
 
 ![](https://komarev.com/ghpvc/?username=xianDT01&color=blueviolet)
