@@ -49,7 +49,7 @@ Repositorio donde guardo mis automatizaciones creadas con [n8n](https://n8n.io/)
 
 ---
 
-## 📊 Estadísticas de GitHub.
+## 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xianDT01&show_icons=true&theme=radical" alt="Estadísticas de GitHub" height="165" />
@@ -59,6 +59,5 @@ Repositorio donde guardo mis automatizaciones creadas con [n8n](https://n8n.io/)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xianDT01&color=blueviolet" alt="Visitas al perfil" />
 </p>
-
 
 ![](https://komarev.com/ghpvc/?username=xianDT01&color=blueviolet)
