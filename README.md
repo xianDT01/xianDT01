@@ -34,11 +34,18 @@ Una aplicación completa para descargar vídeos y audios de YouTube, Twitter/X, 
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-### [GameArchive](https://github.com/xianDT01/GameArchive)
-Aplicación para gestionar y calificar videojuegos.
+### 🔁 [n8n-Automation-Hub](https://github.com/xianDT01/n8n-automation-hub)
 
-- **Tecnologías**: JavaFX, MySQL
-- **Características**: Registro de usuarios, reseñas, foro.
+Repositorio donde guardo mis automatizaciones creadas con [n8n](https://n8n.io/), integrando servicios como Telegram, YouTube, EverLoad y OpenRouter.
+
+- **Tecnologías**: `n8n`, `Telegram Bot API`, `OpenRouter`, `yt-dlp`, `Spring Boot`, `Docker`
+- **Características**:
+  - Automatización de tareas repetitivas con flujos visuales
+  - Integraciones con APIs externas, IA y backends propios
+  - Casos prácticos: descarga de canciones, asistentes conversacionales, tareas programadas
+  - Flujo modular y preparado para despliegue con Docker
+
+<img align="right" width=300px alt="Automation" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDY4azA5Z3phM2djMWdxeXhzNnRtdmt0aW1yc3U4bGZhdnN3NnljYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ll22OhMLAlVDb8UQWe/giphy.gif" />
 
 ---
 
