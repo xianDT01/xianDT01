@@ -59,5 +59,3 @@ Repositorio donde guardo mis automatizaciones creadas con [n8n](https://n8n.io/)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xianDT01&color=blueviolet" alt="Visitas al perfil" />
 </p>
-
-![](https://komarev.com/ghpvc/?username=xianDT01&color=blueviolet)
