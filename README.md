@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
-## 🛠 Tecnologías y Herramientas.
+## 🛠 Tecnologías y Herramientas
 
 **Backend:**  
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
@@ -23,29 +23,35 @@
 ## 🚀 Proyecto Destacado
 
 ### [EverLoad](https://github.com/xianDT01/everload)
-Una aplicación completa para descargar vídeos y audios de YouTube, Twitter/X, Facebook e Instagram.
+Aplicación full-stack para descargar vídeos y audios desde YouTube, Twitter/X, Facebook, Instagram, TikTok y Spotify.
 
-- **Frontend**: Angular 15, multilenguaje, responsive
-- **Backend**: Spring Boot + Swagger
-- **Características**:
-  - Descarga de vídeos y música de múltiples plataformas
-  - Integración con `yt-dlp`
-  - Preparado para despliegue en Docker
+- **Frontend:** Angular 15, multilenguaje (gallego, español, inglés), responsive  
+- **Backend:** Spring Boot + Swagger + Docker  
+- **Funciones principales:**  
+  - Descarga de vídeos en varias resoluciones (144p a 1080p)  
+  - Descarga de audio en MP3  
+  - Descarga de listas de reproducción completas  
+  - Compatible con múltiples plataformas  
+  - Previsualización de vídeos  
+  - Barra de progreso en tiempo real  
+  - Descarga vía Spotify (buscando las canciones en YouTube)  
+- **Integración con:** `yt-dlp`, Docker
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+### 🤖 Bot de Telegram + IA (n8n + OpenRouter)
+Automatización y asistente conversacional integrado con EverLoad para descargar contenido directamente desde Telegram usando comandos o mensajes naturales.
+
+- Comandos: `/musica`, `/video`, `/twitter`, `/instagram`, `/facebook`, `/tiktok`  
+- Respuesta en segundos con el archivo solicitado  
+- IA integrada para interpretar mensajes libres y guiar al usuario
+
+<img align="right" width="300" alt="Automation" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDY4azA5Z3phM2djMWdxeXhzNnRtdmt0aW1yc3U4bGZhdnN3NnljYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ll22OhMLAlVDb8UQWe/giphy.gif" />
 
 ### 🔁 [n8n-Automation-Hub](https://github.com/xianDT01/n8n-automation-hub)
+Repositorio con automatizaciones hechas en n8n, integrando APIs como Telegram, YouTube, EverLoad y OpenRouter.
 
-Repositorio donde guardo mis automatizaciones creadas con [n8n](https://n8n.io/), integrando servicios como Telegram, YouTube, EverLoad y OpenRouter.
-
-- **Tecnologías**: `n8n`, `Telegram Bot API`, `OpenRouter`, `yt-dlp`, `Spring Boot`, `Docker`
-- **Características**:
-  - Automatización de tareas repetitivas con flujos visuales
-  - Integraciones con APIs externas, IA y backends propios
-  - Casos prácticos: descarga de canciones, asistentes conversacionales, tareas programadas
-  - Flujo modular y preparado para despliegue con Docker
-
-<img align="right" width=300px alt="Automation" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDY4azA5Z3phM2djMWdxeXhzNnRtdmt0aW1yc3U4bGZhdnN3NnljYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ll22OhMLAlVDb8UQWe/giphy.gif" />
+- Flujo modular, integración con IA y APIs externas  
+- Despliegue con Docker  
+- Casos prácticos: asistentes conversacionales, descargas, tareas programadas
 
 ---
 
