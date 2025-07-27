@@ -54,7 +54,6 @@ Repositorio con automatizaciones hechas en n8n, integrando APIs como Telegram, Y
 - Casos prácticos: asistentes conversacionales, descargas, tareas programadas
 
 ---
-
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
