@@ -44,7 +44,6 @@ Automatización y asistente conversacional integrado con EverLoad para descargar
 - Respuesta en segundos con el archivo solicitado  
 - IA integrada para interpretar mensajes libres y guiar al usuario
 
-<img align="right" width="300" alt="Automation" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDY4azA5Z3phM2djMWdxeXhzNnRtdmt0aW1yc3U4bGZhdnN3NnljYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ll22OhMLAlVDb8UQWe/giphy.gif" />
 
 ### 🔁 [n8n-Automation-Hub](https://github.com/xianDT01/n8n-automation-hub)
 Repositorio con automatizaciones hechas en n8n, integrando APIs como Telegram, YouTube, EverLoad y OpenRouter.
